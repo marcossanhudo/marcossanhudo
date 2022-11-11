@@ -2,7 +2,7 @@ English (United States) version first
 Versão portuguesa (Brasil) mais abaixo
 
 ## English (United States)
-Hi, my name is Marcos, and I'm a software developper. I am a software engineering student living in Brazil, and I'm trying to become full-stack.  
+Hi, my name is Marcos, and I'm a software developper living in Brazil. I am a software engineering student, and I'm trying to become full-stack.
 ### Development technologies
 #### I have more robust experiences with
 - Java
@@ -36,7 +36,7 @@ Hi, my name is Marcos, and I'm a software developper. I am a software engineerin
 - Brazilian Sign Language
 
 ## Português (Brasil)
-Olá, meu nome é Marcos, e sou um desenvolvedor de software. Eu sou um estudante de engenharia de software morando no Brasil, e estou tentanto me tornar full-stack.
+Olá, meu nome é Marcos, e sou um desenvolvedor de software, e moro no Brasil. Eu sou um estudante de engenharia de software, e estou tentanto me tornar full-stack.
 ### Tecnologias com as quais desenvolvo
 #### Tenho experiência mais robusta com
 - Java
