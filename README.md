@@ -22,6 +22,9 @@ Get in contact via my LinkedIn: https://www.linkedin.com/in/marcos-sanhudo
 - Git
 - Figma
 - Trello
+- Windows command line
+- Visual Studio
+- Visual Studio Code
 ### Human languages
 #### I'm native or fluent in
 - Portuguese
@@ -58,6 +61,9 @@ Entre em contato através do meu LinkedIn: https://www.linkedin.com/in/marcos-sa
 - Git
 - Figma
 - Trello
+- Linha de comando do Windows
+- Visual Studio
+- Visual Studio Code
 ### Linguagens humanas
 #### Sou nativo ou fluente em
 - Português
